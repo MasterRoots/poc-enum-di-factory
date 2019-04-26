@@ -1,0 +1,1 @@
+# poc-enum-di-factory
